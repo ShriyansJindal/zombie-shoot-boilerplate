@@ -27,7 +27,7 @@ bgsound.play()
 bgsound.loop = true;
 
 // Iteration 1.4: Add lives
-var maxLives = 4;
+
 var noOflives =4;
 // Iteration 2: Write a function to make a zombie
 function makeZombie(){
